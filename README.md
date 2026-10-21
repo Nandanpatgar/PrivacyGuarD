@@ -148,13 +148,7 @@ PrivacyGuardAI/
 │
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── static/
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── app.js
+└── .gitignore
 ```
 
 **Note:** The structure above represents the intended organisation of the project. Keep only the files and folders that actually exist in your repository. The `static/` directory is optional if your current implementation does not use it.
