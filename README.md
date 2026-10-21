@@ -125,7 +125,7 @@ The application follows this general workflow:
 ## Project Structure
 
 ```text
-PrivacyGuardAI/
+PrivacyGuarD/
 │
 ├── main.py
 ├── detector.py
@@ -176,7 +176,7 @@ git clone https://github.com/<your-github-username>/PrivacyGuardAI.git
 Navigate to the project directory:
 
 ```bash
-cd PrivacyGuardAI
+cd PrivacyGuarD
 ```
 
 ### 2. Create a Virtual Environment
@@ -233,7 +233,7 @@ http://localhost:8501
 
 ## Usage
 
-1. Launch the PrivacyGuard AI application.
+1. Launch the PrivacyGuarD application.
 2. Enter or paste the text you want to analyse.
 3. Select the appropriate sharing destination if the interface provides that option.
 4. Run the privacy scan.
@@ -333,7 +333,7 @@ Potential improvements include:
 
 ## Security Considerations
 
-PrivacyGuard AI is a prototype intended to demonstrate sensitive information detection and redaction.
+PrivacyGuarD is a prototype intended to demonstrate sensitive information detection and redaction.
 
 Before using it with confidential or personal information, consider the following:
 
@@ -351,4 +351,4 @@ A formal open-source licence has not been specified. Add a `LICENSE` file if you
 
 ---
 
-**PrivacyGuard AI — Detect sensitive information, assess privacy risks, and support safer text sharing.**
+**PrivacyGuarD — Detect sensitive information, assess privacy risks, and support safer text sharing.**
